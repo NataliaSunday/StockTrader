@@ -5,8 +5,3 @@
         <li><router-link to='/Stocks'>Stocks</router-link></li>
     </ul>
 </template>
-<script>
-export default {
-
-}
-</script>
