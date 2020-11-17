@@ -1,7 +1,8 @@
 <template>
-    <ul>
-        <li><router-link to='/'>Stock Trader</router-link></li>
-        <li><router-link to='/Portfolio'>Portfolio</router-link></li>
-        <li><router-link to='/Stocks'>Stocks</router-link></li>
-    </ul>
+<nav>
+    <router-link to='/'>Stock Trader</router-link>
+    <router-link to='/Portfolio'>Portfolio</router-link>
+    <router-link to='/Stocks'>Stocks</router-link>
+</nav> 
+
 </template>
